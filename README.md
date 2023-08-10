@@ -30,7 +30,7 @@
 
 ---
 
-<h3>Education &  Career</h3> 
+<h3>Education</h3> 
 
 <h5> 상명대학교 컴퓨터과학과</h5>
 <p>2019.03 ~ </p>
