@@ -57,10 +57,6 @@
   <p>스토리보드, 코드를 통해 개발 가능합니다.</p>
   <li>Swift</li>
   <p>Swift의 기본 문법을 이해하고 사용합니다</p>
-  <li>MVC/MVVM</li>
-  <p>MVC, MVVM 패턴을 활용하여 앱을 만들어본 경험이 있습니다.</p>
-  <li>Framework And Library</li>
-  <p>다양한 프레임워크와 라이브러리를 이해하고 활용 할 수 있습니다.<br>Combine, NaverMap, FireBase, Firestore, CoreData, Kingfisher 등 활용해본 경험이 있습니다.</p>
   <li>Git&Github</li>
   <p>깃허브를 활용한 앱 버전 관리와 다른사람들과 협업한 경험이 있습니다.</p>
   <li>notion&lack</li>
