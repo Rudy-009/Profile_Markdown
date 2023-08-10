@@ -66,3 +66,8 @@
   <li>notion&lack</li>
   <p>협업 툴을 활용하여 의사소통 가능합니다.</p>
 </ul>
+
+<h2>Certificate</h2> 
+<ul>
+  <li>Toeic 870</li>
+</ul>
